@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rasujan , **Sujan Maharjan**
-- 👀 I’m interested in web development with React, Neztjs and Angular.
+- 👀 I’m interested in web development with React, Nextjs and Angular.
 - 🌱 I’m currently learning **Rust** for front end development.
-- 💞️ I’m looking to collaborate on **Rust** Framework like **Yew**, **Piston** for forntend develpoment.
+- 💞️ I’m looking to collaborate on **Rust** with Framework like **Yew**, **Piston** for forntend develpoment.
 - 📫 How to reach me -> twitter @rasujan
 
 <!---
